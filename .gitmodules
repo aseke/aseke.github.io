@@ -1,3 +1,12 @@
 [submodule ".themes/MediumFox"]
 	path = .themes/MediumFox
 	url = https://github.com/sevenadrian/MediumFox
+[submodule ".themes/foxslide"]
+	path = .themes/foxslide
+	url = https://github.com/sevenadrian/foxslide
+[submodule ".themes/mnml"]
+	path = .themes/mnml
+	url = https://github.com/ioveracker/mnml.git
+[submodule "source/_posts/.themes/MediumFox"]
+	path = source/_posts/.themes/MediumFox
+	url = https://github.com/sevenadrian/MediumFox
