@@ -3,33 +3,26 @@
   
   
   <url>
-    <loc>http://assylbek.tk/blog/2014/11/03/prozrieniie-pro-zrieniie/</loc>
+    <loc>http://assylbek.tk/blog/2014/11/04/prozrieniie-pro-zrieniie/</loc>
     
-    <lastmod>2014-11-03T00:00:00+06:00</lastmod>
+    <lastmod>2014-11-04T21:43:45+06:00</lastmod>
     
     <priority>0.8</priority>
   </url>
   
   
   <url>
+    <loc>http://assylbek.tk/blog/archives/</loc>
+    <lastmod>2014-11-04T21:45:44+06:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
     <loc>http://assylbek.tk/</loc>
-    <lastmod>2014-11-03T21:03:08+06:00</lastmod>
+    <lastmod>2014-11-04T21:45:44+06:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
-  </url>
-  
-  <url>
-    <loc>http://assylbek.tk/blog/archives/</loc>
-    <lastmod>2014-11-03T21:03:08+06:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  
-  <url>
-    <loc>http://assylbek.tk/posts/</loc>
-    <lastmod>2014-11-03T21:03:08+06:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
   </url>
   
   
